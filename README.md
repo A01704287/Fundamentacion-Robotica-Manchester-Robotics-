@@ -1,10 +1,10 @@
 # Fundamentacion-Robotica-Manchester-Robotics-
 En este repositorio se encontraran los entregablesa los mini challenges y al reto impartidos por manchester robotics durante el primer periodo de clases Feb-Jun 2024.
 En el repositorio se podran encontrar los videos demostrativos de los mini retos ejecutados y corriendo al igual que su codigo.
-Todos las carpetas encontradas en este repositorio son las pertenecientes a la carpeta src/ros2_ws de nuestro workspace creado en ros2. De la misma mnera encontraras un video ddedl funcioonamiento de cadda uno de los chllenges. 
+Todos las carpetas encontradas en este repositorio son las pertenecientes a la carpeta src/ros2_ws de nuestro workspace creado en ros2. De la misma mnera encontraras un video del funcionamiento de cada uno de los challenges. 
 
-A continuacion anexo algunos de los comandos utilizados para correr dichos mini retos desde la
-Comandos desde la termianl:
+A continuacion anexo algunos de los comandos utilizados para correr dichos mini retos desde la terminal.
+Comandos desde la terminal:
 mor20mcr2-virtual-machine:-$ colcon build
 mor2@mcr2-virtual-machine:~$ source install/setup.bash
 mcr2@mcr2-virtual-machine:~$ ros2 launch signal decomposition signal_decomposition launch.py
