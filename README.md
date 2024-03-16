@@ -7,9 +7,9 @@ A continuacion anexo algunos de los comandos utilizados para correr dichos mini 
 Comandos desde la terminal:
 
 
-mor20mcr2-virtual-machine:$ colcon build
+mcr20mcr2-virtual-machine:$ colcon build
 
-mor2@mcr2-virtual-machine:$ source install/setup.bash
+mcr2@mcr2-virtual-machine:$ source install/setup.bash
 
 mcr2@mcr2-virtual-machine:$ ros2 launch signal decomposition signal_decomposition launch.py
 
