@@ -23,6 +23,6 @@ mcr2@mor2-virtual-machine:$ ros2 run basic_comms_signal talker
 
 mcr2@mor2-virtual-machine:$ ros2 run basic_comms_signal listener
 
-mcr2@mor2-virtual-machine:$ ros2 run basic_comms_signal signal generator
+mcr2@mor2-virtual-machine:$ ros2 run basic_comms_signal signal_generator
 
 mcr2@mor2-virtual-machine:$ ros2 run rqt_plot rqt_plot
